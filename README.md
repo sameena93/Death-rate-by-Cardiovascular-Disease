@@ -71,37 +71,15 @@
     <li>Random Forest</li>
     <li>Support Vector Machine (SVM)</li>
 </ul>
----
-<h3>Evaluation Metrics:</h3>
-<ul>
-    <li><strong>ROC Curve:</strong> Graphical representation of the true positive rate vs. false positive rate for each model.</li>
-    <li><strong>AUC Score:</strong> Quantitative measure of model performance.</li>
-</ul>
 
-<h3>Results:</h3>
-<table border="1">
-    <tr>
-        <th>Model</th>
-        <th>AUC Score</th>
-    </tr>
-    <tr>
-        <td>Logistic Regression</td>
-        <td>X.XX</td>
-    </tr>
-    <tr>
-        <td>Decision Tree</td>
-        <td>X.XX</td>
-    </tr>
-    <tr>
-        <td>Random Forest</td>
-        <td>X.XX</td>
-    </tr>
-    <tr>
-        <td>Support Vector Machine</td>
-        <td>X.XX</td>
-    </tr>
-</table>
 ---
+
+<h3>Evaluation Metrics:</h3>
+
+![](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/ROC_plots.png)
+
+---
+
 <h2>Conclusion</h2>
 <p>The project demonstrates the effectiveness of machine learning models in predicting heart failure-related deaths. Based on the AUC scores and ROC curves, SVM emerged as the most accurate model. The insights from the visualizations and the models can aid in identifying high-risk patients and improving early intervention strategies.</p>
 
