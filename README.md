@@ -36,7 +36,7 @@
 <h2>Visualizations</h2>
 <h3>1. Ejection Fraction vs. Age by Death Event</h3>
 <p>A scatter plot showcasing the relationship between ejection fraction and age, categorized by death event.</p>
-![images/ejection_fraction_vs_age.png" alt="Ejection Fraction vs. Age by Death Event](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/ejection_fraction_by_age.jpeg)
+![Query screencshot](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/ejection_fraction_by_age.jpeg)
 
 <h3>2. Histogram of Serum Creatinine by Death Events with Hypertension</h3>
 <p>A histogram to explore the distribution of serum creatinine levels, segmented by death events and hypertension status.</p>
