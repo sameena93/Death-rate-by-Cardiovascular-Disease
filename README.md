@@ -18,6 +18,7 @@
     <li><strong>Model Evaluation:</strong>
         <ul>
             <li>Comparison of models using ROC curves and AUC scores.</li>
+            <li>Confusion Matrix</li>
         </ul>
     </li>
 </ol>
