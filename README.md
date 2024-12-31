@@ -1,3 +1,8 @@
 <h1>Predictive Model of Heart Failure </h1>
-<h1>Developed a machine learning model to predict the risk of heart failure-related deaths based on clinical and demographic data, aiming to enable early intervention and enhance patient care by identifying high-risk individuals</h1>
+
+<p>This project aims to analyze and predict heart failure-related deaths using clinical and demographic data. The goal is to leverage machine learning models to identify high-risk patients and improve early intervention and patient care.</p>
+
+---
+
+
 
