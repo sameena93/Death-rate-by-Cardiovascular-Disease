@@ -76,7 +76,10 @@
 
 <h3>Evaluation Metrics:</h3>
 
-![](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/ROC_plots.png) 
+
+![](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/Screenshot%202024-12-31%20120241.png)
+
+![](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/ROC_plots.png)
 
 ---
 
