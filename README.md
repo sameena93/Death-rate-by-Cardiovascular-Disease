@@ -63,6 +63,8 @@
 
 ![](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/smokingbygender.jpeg)
 
+---
+
 <h2>Model Comparison and Evaluation</h2>
 <p>The following models were implemented to predict the likelihood of heart failure-related deaths:</p>
 <ul>
@@ -85,15 +87,5 @@
 
 <h2>Conclusion</h2>
 <p>The project demonstrates the effectiveness of machine learning models in predicting heart failure-related deaths. Based on the AUC scores and ROC curves, SVM emerged as the most accurate model. The insights from the visualizations and the models can aid in identifying high-risk patients and improving early intervention strategies.</p>
-
-<h2>How to Run</h2>
-<ol>
-    <li>Clone the repository:
-        <pre><code>git clone &lt;repository_url&gt;</code></pre>
-    </li>
- 
-    <li>View the visualizations and model comparison results in the output folder.</li>
-</ol>
-
 
 
