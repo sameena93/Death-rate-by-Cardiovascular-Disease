@@ -23,7 +23,7 @@
     </li>
 </ol>
 
-
+---
 <h2>Data Description</h2>
 <p>The dataset includes the following key features:</p>
 <ul>
@@ -31,11 +31,12 @@
     <li><strong>Demographic Features:</strong> Age, gender, smoking status, etc.</li>
     <li><strong>Outcome:</strong> Death event (binary variable).</li>
 </ul>
+---
 
 <h2>Visualizations</h2>
 <h3>1. Ejection Fraction vs. Age by Death Event</h3>
 <p>A scatter plot showcasing the relationship between ejection fraction and age, categorized by death event.</p>
-<img src="images/ejection_fraction_vs_age.png" alt="Ejection Fraction vs. Age by Death Event">
+![images/ejection_fraction_vs_age.png" alt="Ejection Fraction vs. Age by Death Event](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/ejection_fraction_by_age.jpeg)
 
 <h3>2. Histogram of Serum Creatinine by Death Events with Hypertension</h3>
 <p>A histogram to explore the distribution of serum creatinine levels, segmented by death events and hypertension status.</p>
@@ -61,7 +62,7 @@
     <li>Random Forest</li>
     <li>Support Vector Machine (SVM)</li>
 </ul>
-
+---
 <h3>Evaluation Metrics:</h3>
 <ul>
     <li><strong>ROC Curve:</strong> Graphical representation of the true positive rate vs. false positive rate for each model.</li>
@@ -91,7 +92,7 @@
         <td>X.XX</td>
     </tr>
 </table>
-
+---
 <h2>Conclusion</h2>
 <p>The project demonstrates the effectiveness of machine learning models in predicting heart failure-related deaths. Based on the AUC scores and ROC curves, SVM emerged as the most accurate model. The insights from the visualizations and the models can aid in identifying high-risk patients and improving early intervention strategies.</p>
 
@@ -100,12 +101,7 @@
     <li>Clone the repository:
         <pre><code>git clone &lt;repository_url&gt;</code></pre>
     </li>
-    <li>Install dependencies:
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
-    <li>Run the analysis script:
-        <pre><code>python analysis.py</code></pre>
-    </li>
+ 
     <li>View the visualizations and model comparison results in the output folder.</li>
 </ol>
 
