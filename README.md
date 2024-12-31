@@ -5,14 +5,7 @@
 ---
 <h2>Key Features</h2>
 <ol>
-    <li><strong>Exploratory Data Analysis (EDA):</strong>
-        <ul>
-            <li>Graph of ejection fraction vs. age by death event (<a href="images/ejection_fraction_vs_age.png">View Graph</a>).</li>
-            <li>Histogram of serum creatinine by death events with hypertension (HTN) (<a href="images/serum_creatinine_histogram.png">View Histogram</a>).</li>
-            <li>Heatmap of the correlation matrix (<a href="images/correlation_heatmap.png">View Heatmap</a>).</li>
-            <li>Death event by the number of hospital visits (<a href="images/death_event_hospital_visits.png">View Chart</a>).</li>
-            <li>Bar plot of smoking status by gender (<a href="images/smoking_by_gender.png">View Bar Plot</a>).</li>
-        </ul>
+    <li><strong>Exploratory Data Analysis (EDA) and Data Preprocessing:</strong>
     </li>
     <li><strong>Model Building and Comparison:</strong>
         <ul>
