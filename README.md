@@ -3,6 +3,7 @@
 <p>This project aims to analyze and predict heart failure-related deaths using clinical and demographic data. The goal is to leverage machine learning models to identify high-risk patients and improve early intervention and patient care.</p>
 
 ---
+
 <h2>Key Features</h2>
 <ol>
     <li><strong>Exploratory Data Analysis (EDA) and Data Preprocessing:</strong>
@@ -24,6 +25,7 @@
 </ol>
 
 ---
+
 <h2>Data Description</h2>
 <p>The dataset includes the following key features:</p>
 <ul>
@@ -31,6 +33,7 @@
     <li><strong>Demographic Features:</strong> Age, gender, smoking status, etc.</li>
     <li><strong>Outcome:</strong> Death event (binary variable).</li>
 </ul>
+
 ---
 
 <h2>Visualizations</h2>
@@ -41,7 +44,8 @@
 
 <h3>2. Histogram of Serum Creatinine by Death Events with Hypertension</h3>
 <p>A histogram to explore the distribution of serum creatinine levels, segmented by death events and hypertension status.</p>
-<img src="images/serum_creatinine_histogram.png" alt="Serum Creatinine Histogram">
+
+![](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/creatbyhtn.jpeg)
 
 <h3>3. Heatmap of Correlation Matrix</h3>
 <p>A heatmap visualizing the correlation between various features in the dataset to identify significant relationships.</p>
