@@ -93,7 +93,7 @@
 </table>
 
 <h2>Conclusion</h2>
-<p>The project demonstrates the effectiveness of machine learning models in predicting heart failure-related deaths. Based on the AUC scores and ROC curves, [insert best-performing model] emerged as the most accurate model. The insights from the visualizations and the models can aid in identifying high-risk patients and improving early intervention strategies.</p>
+<p>The project demonstrates the effectiveness of machine learning models in predicting heart failure-related deaths. Based on the AUC scores and ROC curves, SVM emerged as the most accurate model. The insights from the visualizations and the models can aid in identifying high-risk patients and improving early intervention strategies.</p>
 
 <h2>How to Run</h2>
 <ol>
@@ -109,22 +109,5 @@
     <li>View the visualizations and model comparison results in the output folder.</li>
 </ol>
 
-<h2>Future Work</h2>
-<ul>
-    <li>Incorporate additional clinical features for enhanced predictions.</li>
-    <li>Explore deep learning techniques for improved accuracy.</li>
-    <li>Implement real-time predictions using a deployed web application.</li>
-</ul>
-
-<h2>Acknowledgments</h2>
-<p>Thanks to the team and collaborators for their support in completing this project. Special thanks to the data contributors for providing valuable insights into heart failure analysis.</p>
-
-<h2>Contact</h2>
-<p>For any questions or collaboration opportunities, feel free to contact:</p>
-<ul>
-    <li><strong>Name:</strong> [Your Name]</li>
-    <li><strong>Email:</strong> [Your Email]</li>
-    <li><strong>LinkedIn:</strong> <a href="[Your LinkedIn Profile]">Your LinkedIn Profile</a></li>
-</ul>
 
 
