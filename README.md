@@ -49,17 +49,19 @@
 
 <h3>3. Heatmap of Correlation Matrix</h3>
 <p>A heatmap visualizing the correlation between various features in the dataset to identify significant relationships.</p>
-<img src="images/correlation_heatmap.png" alt="Correlation Heatmap">
 
 ![](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/heatmap%20of%20coorelation%20matrix.jpeg)
 
 <h3>4. Death Event by Number of Hospital Visits</h3>
 <p>A bar chart highlighting the frequency of death events based on the number of hospital visits.</p>
-<img src="images/death_event_hospital_visits.png" alt="Death Event by Hospital Visits">
+
+![](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/ejection%20fraction%20by%20age.jpeg)
+
 
 <h3>5. Smoking Status by Gender</h3>
 <p>A bar plot showing the distribution of smoking status for each gender.</p>
-<img src="images/smoking_by_gender.png" alt="Smoking by Gender">
+
+![](https://github.com/sameena93/Death-rate-by-Cardiovascular-Disease/blob/main/img/smokingbygender.jpeg)
 
 <h2>Model Comparison and Evaluation</h2>
 <p>The following models were implemented to predict the likelihood of heart failure-related deaths:</p>
